@@ -1,1 +1,1 @@
-A memory game built with react.js,Enjoy!
+created to practice routing!,nothing crazy.

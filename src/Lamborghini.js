@@ -24,7 +24,6 @@ import centenario from './images/centenario.jpeg'
 import centenarioFront from './images/centenario-front.jpeg'
 import centenarioRear from './images/centenario-rear.jpeg'
 import centenarioSide from './images/centenario-side.jpeg'
-// import data from './data'
 function Lamborghini(props) {
   return (
     <div>

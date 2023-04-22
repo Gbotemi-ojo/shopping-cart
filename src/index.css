@@ -297,12 +297,6 @@ header>div:nth-child(3) {
   }
 }
 
-/* @media(min-width: 400px) and (max-width:800px){
-.productComponent{
-    grid-template-columns: 1fr;
-}
-} */
-
 @media(max-width:600px){
   .iconMenu{
     display: flex;
